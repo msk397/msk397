@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Some of Interests:    
 <p align="center">  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msk397&show_icons=true&line_height=27&theme=tokyonight&include_all_commits=true" alt="Matt's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk397&hide=javascript&hide_langs_below=1&theme=tokyonight&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk397&hide=javascript,html,css,java&hide_langs_below=1&theme=tokyonight&line_height=27" />
 </p>
 
 <hr>
