@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=msk397.msk397" alt="visitor badge"/>  
-<a title="Hits" target="_blank" href="https://github.com/msk397/hits"><img src="https://hits.b3log.org/msk397/hits.svg">
- <img src="https://www.codewars.com/users/Lciop/badges/micro" alt="Codewars Badges" href="https://www.codewars.com/users/Lciop"/>  
+<a title="Hits" target="_blank" href="https://github.com/msk397/hits"><img src="https://hits.b3log.org/msk397/hits.svg"></a>
+ <a href="https://www.codewars.com/users/Lciop"><img src="https://www.codewars.com/users/Lciop/badges/micro" alt="Codewars Badges" />  
 </p>
  <p align="center">
      <a href="https://github.com/Lyall-X/" target="_blank">Inspired by Lyall-X</a>
