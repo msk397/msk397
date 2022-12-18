@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 🧐 Interested in full stack. focus on backend.
 - ⚡ [My notion Programming Note](https://organized-wallet-a87.notion.site/437cc533c36f4cff8cbdcf141cfb40a1)
 
-### Some of Interests:    
+
 <p align="center">  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=msk397&show_icons=true&line_height=27&theme=tokyonight&include_all_commits=true" alt="Matt's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk397&hide=javascript,html,css,java&hide_langs_below=1&theme=tokyonight&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=msk397&show_icons=true&line_height=20&theme=transparent&include_all_commits=true" alt="Matt's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk397&hide=javascript,html,css,java&hide_langs_below=1&theme=transparent&line_height=27&layout=compact" />
 </p>
 
 <hr>
