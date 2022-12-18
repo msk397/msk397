@@ -1,3 +1,5 @@
+![](https://github.com/msk397/msk397/blob/main/header_.png)
+ 
 ### Hi there 👋
 
 <!--
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/msk397/msk397/blob/main/header_.png)
 
 
 - 🌱 I’m currently learning Go.
@@ -26,21 +27,3 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=msk397&show_icons=true&card_width=400&line_height=20&theme=transparent&include_all_commits=true" alt="Matt's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msk397&hide=javascript,html,css,java&hide_langs_below=1&theme=transparent&line_height=27&layout=compact" />
 </p>
-
-<hr>
-
-
-<p align="center">
-<a href= "https://twitter.com/msk3_go"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://github.com/msk397"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
-
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=msk397.msk397" alt="visitor badge"/>  
-<a title="Hits" target="_blank" href="https://github.com/msk397/hits"><img src="https://hits.b3log.org/msk397/hits.svg"></a>
- <a href="https://www.codewars.com/users/Lciop"><img src="https://www.codewars.com/users/Lciop/badges/micro" alt="Codewars Badges" />  
-</p>
- <p align="center">
-     <a href="https://github.com/Lyall-X/" target="_blank">Inspired by Lyall-X</a>
-  </p>
-
