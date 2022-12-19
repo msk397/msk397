@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Go.
 - 🧐 Interested in full stack. focus on backend.
-- ⚡ [My notion Programming Note](https://organized-wallet-a87.notion.site/437cc533c36f4cff8cbdcf141cfb40a1)
+- ⚡ [My notion Programming Note](https://msk397.notion.site/Program-437cc533c36f4cff8cbdcf141cfb40a1)
 
 
 <p align="center">  
